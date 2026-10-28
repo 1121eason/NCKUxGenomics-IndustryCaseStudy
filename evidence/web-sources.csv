@@ -1,0 +1,11 @@
+source_id,title,url,consulted_date,timezone,access_scope
+W01,首頁,https://www.i-genomics.com.tw/zh-tw,2026-10-28,Australia/Brisbane,public page
+W02,關於先見,https://www.i-genomics.com.tw/zh-tw/about.php,2026-10-28,Australia/Brisbane,public page
+W03,基因風險評估介紹,https://www.i-genomics.com.tw/zh-tw/goods.php?act=intro,2026-10-28,Australia/Brisbane,public page
+W04,檢測商品,https://www.i-genomics.com.tw/zh-tw/goods.php,2026-10-28,Australia/Brisbane,public page
+W05,基因銀行,https://www.i-genomics.com.tw/zh-tw/bank.php,2026-10-28,Australia/Brisbane,public page
+W06,隱私權政策,https://www.i-genomics.com.tw/zh-tw/privacy.php,2026-10-28,Australia/Brisbane,public page
+X01,FDA Direct-to-Consumer Tests,https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests,2026-10-28,Australia/Brisbane,public page
+X02,NSGC Consumer-Initiated Genetic Testing Position Statement,https://www.nsgc.org/Advocacy/Position-Statements/Product-Details/consumer-initiated-genetic-testing-position-statement,2026-10-28,Australia/Brisbane,public page
+T01,Kano et al. 1984 publisher abstract,https://www.jstage.jst.go.jp/article/quality/14/2/14_KJ00002952366/_article,2026-10-28,Australia/Brisbane,publisher metadata and abstract
+T02,Martilla and James 1977 publisher abstract,https://journals.sagepub.com/doi/10.1177/002224297704100112,2026-10-28,Australia/Brisbane,publisher metadata and abstract

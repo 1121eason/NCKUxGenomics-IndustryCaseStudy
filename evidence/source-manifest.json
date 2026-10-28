@@ -1,0 +1,30 @@
+{
+  "source_id": "S01",
+  "original_filename": "跨領域課程1226簡報：基因算命期末報告.pdf",
+  "pages": 31,
+  "course_year": "unconfirmed",
+  "source_sha256": "a7834e6e4c23633af7eb6ecfa4747c45a0d7f03dbe237cc3a5b13924c0dbff93",
+  "public_original_pdf": false,
+  "source_status": "original retained locally without modification",
+  "public_excerpts": [
+    {
+      "source_page": 14,
+      "path": "assets/original-slide-14.jpg",
+      "sha256": "b5b74bfad633fbeb4b9510ce1f6158af6ba68a0a86e164df65122636f91cb714",
+      "transformation": "Full PDF page rendered as JPEG at 1800 px maximum dimension; no content edits"
+    },
+    {
+      "source_page": 25,
+      "path": "assets/original-slide-25.jpg",
+      "sha256": "127b1636648ef0cb8643e35748fde15a3eb51237a191fc57256eb44ffd75eaca",
+      "transformation": "Full PDF page rendered as JPEG at 1800 px maximum dimension; no content edits"
+    },
+    {
+      "source_page": 29,
+      "path": "assets/original-slide-29.jpg",
+      "sha256": "4f1c92beb9d99f1ae64ae74450190e0013708af028b797e92fdcaa7c393021ad",
+      "transformation": "Full PDF page rendered as JPEG at 1800 px maximum dimension; no content edits"
+    }
+  ],
+  "source_note": "User-provided team coursework. Excerpt graphics remain attributed to their respective rights holders."
+}
